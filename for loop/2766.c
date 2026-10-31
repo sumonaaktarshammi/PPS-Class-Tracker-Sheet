@@ -2,7 +2,7 @@
 int main()
 {
     char n[10][31];
-    for (int i = 0; i <= 10; i++)
+    for (int i = 0; i < 10; i++)
     {
         scanf("%s", n[i]);
     }
